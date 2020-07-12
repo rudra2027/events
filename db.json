@@ -1,0 +1,100 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "OPEN CRANIVAL",
+      "date": "20-MAY-2020",
+      "time": "10:00PM-12:00PM",
+      "address": "",
+      "city": "BHOPAL",
+      "link":""
+    },
+    {
+      "id": 2,
+      "name": "MEGAROAD CAR RACING",
+      "date": "27-JUNE-2020",
+      "timespan":" 2 days",
+      "time": "9:00AM onwards",
+      "address": "",
+      "city": "BHOPAL",
+       "link":""
+    },
+    {
+      "id": 3,
+      "name": "SWIM SLAM",
+      "date": "29-JULY-2020",
+      "timespan":"1 days",
+      "time": "3:00PM onwards",
+      "address": "",
+      "city": "BHOPAL",
+       "link":""
+    },
+    {
+      "id": 4,
+      "name": "AVIATOR-DRONOIDICA",
+      "date": "16-AUG-2020",
+      "timespan":"3 days",
+      "time": "10:00AM onwards",
+      "address": "",
+      "city":"BHOPAL",
+       "link":""
+    },
+    {
+      "id": 5,
+      "name": "B PRAAK-CONCERT",
+      "date": "26-AUG-2020",
+      "time": "5:00PM onwards",
+      "address": "",
+      "city": "BHOPAL",
+       "link":""
+    },
+    {
+      "id": 6,
+      "name": "OPEN BASKETBALL CHAMPIONSHIP-2",
+      "date": "12-JAN-2020",
+      "time": "9:00AM onwards",
+      "address": "",
+      "city": "JALANDHAR",
+       "link":""
+    },
+    {
+      "id": 7,
+      "name": "EDM NIGHT(DJ-PRIYANKA)",
+      "date": "13-FEB-2020",
+      "time": "11:30PM onwards",
+      "address": "",
+      "city": "JALANDHAR",
+       "link":""
+    },
+    {
+      "id": 8,
+      "name": "SLING WARIIORS CUP-14",
+      "date": "3-MAR-2020",
+      "time": "6:00PM-8:00PM",
+      "address": "",
+      "city": "JALANDHAR",
+       "link":""
+    },
+    {
+      "id": 9,
+      "name": "INDORI-AE-RAHAT ",
+      "date": "16-APR-2020",
+      "time": "8:00PM-10:00PM",
+      "address": "",
+      "city": "JALANDHAR",
+       "link":""
+    },
+    {
+      "id": 10,
+      "name": "PARODY MARCH",
+      "date": "23-APR-2020",
+      "time": "5:00PM-7:00PM",
+      "address": "",
+      "city": "JALANDHAR",
+       "link":""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
